@@ -4,9 +4,9 @@
 
 <h3>Hi, I'm Huy</h3>
 
-- 🔭 I’m interested in game developing
+🔭 I’m interested in game development.
 
-- 🌱 I’m currently learning UnityEngine
+🌱 Currently, I'm learning UnityEngine
 
 
 <div align="center">
