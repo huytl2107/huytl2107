@@ -17,7 +17,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://huytl2107.itch.io/" target="_blank">
+  <a href="https://huytl2107.itch.io/" onclick="window.open(this.href, '_blank'); return false;">
     <img width="200" height="53" src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest/scale-to-width-down/300?cb=20220421190013" />
   </a>
 </div>
